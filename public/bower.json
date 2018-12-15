@@ -1,0 +1,16 @@
+{
+  "name": "laravel_angular",
+  "description": "Laravel and AngularJS For Front-End Development",
+  "main": "",
+  "authors": [
+    "Mitesh Patel"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "angular-cookies": "^1.7.5",
+    "bootstrap": "^4.1.3",
+    "angular-route": "^1.7.5"
+  }
+}
